@@ -56,9 +56,6 @@ Become an AI/ML Engineer and build impactful AI applications.
 * GitHub
 * Streamlit
 
-
-\
-
 ---
 
 # 📂 Featured Projects

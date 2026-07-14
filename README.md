@@ -140,7 +140,6 @@ Exploratory Data Analysis and visualization using Python.
 # 📈 Contribution Graph
 
 ---
----
 
 ## 🐍 Contribution Snake
 

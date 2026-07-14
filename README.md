@@ -37,24 +37,24 @@ Become an AI/ML Engineer and build impactful AI applications.
 
 ### 👨‍💻 Programming Languages
 
-Python
-C
-SQL
+* Python
+* C
+* SQL
 
 ### 📚 Libraries & Frameworks
 
-NumPy
-Pandas
-Matplotlib
-Scikit-Learn
-TensorFlow
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-Learn
+* TensorFlow
 
 ### ⚙️ Tools
-Jupyter
-VS Code 
-SQL
-GitHub
-Streamlit
+* Jupyter
+* VS Code 
+* SQL
+* GitHub
+* Streamlit
 
 
 \
@@ -109,9 +109,9 @@ Exploratory Data Analysis and visualization using Python.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshu159&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu159&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -121,7 +121,7 @@ Exploratory Data Analysis and visualization using Python.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=priyanshu159&theme=tokyonight"/>
 
 </p>
 
@@ -131,7 +131,7 @@ Exploratory Data Analysis and visualization using Python.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=priyanshu159&theme=tokyonight&row=1&column=7"/>
 
 </p>
 

@@ -6,7 +6,7 @@
 
 ### 🎓 Computer Science Student | Aspiring AI & Machine Learning Engineer
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=priyanashu159&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 

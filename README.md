@@ -140,6 +140,15 @@ Exploratory Data Analysis and visualization using Python.
 # 📈 Contribution Graph
 
 ---
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/priyanshu159/priyanshu159/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+---
 
 # 📫 Connect With Me
 

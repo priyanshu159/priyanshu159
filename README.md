@@ -60,26 +60,18 @@
 
 ## 📂 Featured Projects
 
-### 💼 [InterviewGPT](https://github.com/priyanshu159/REPO-NAME)
+### 💼 [InterviewGPT](https://github.com/priyanshu159/InterviewGPT)
 AI-powered interview preparation assistant that generates interview questions and helps users practice technical and HR interviews.
 
-### 💰 [Salary Prediction](https://github.com/priyanshu159/REPO-NAME)
+### Smart_Parking_Space_Allocation_Using_Reinforcement_Learning(https://github.com/priyanshu159/Smart_Parking_Space_Allocation_Using_Reinforcement_Learning)
+A simulation-based parking management system that uses Q-Learning to assign parking spaces optimally, minimising search distance and congestion.
+
+### 💰 [AI-Powered-Salary-Prediction-Job-Market-Analytics](https://github.com/priyanshu159/AI-Powered-Salary-Prediction-Job-Market-Analytics)
 Machine Learning model that predicts employee salaries using features such as education, experience, and job role.
 
-### 🏠 [House Price Prediction](https://github.com/priyanshu159/REPO-NAME)
+### 🏠 [Advanced House Price Prediction](https://github.com/priyanshu159/Advanced-House-Price-Prediction-System)
 Regression model that predicts house prices based on various property features.
 
-### 📈 [Customer Churn Prediction](https://github.com/priyanshu159/REPO-NAME)
-Predicts whether a customer is likely to leave a company.
-
-### 📰 [AG News Classification using RNN](https://github.com/priyanshu159/REPO-NAME)
-Text classification using Recurrent Neural Networks (RNN).
-
-### 🖼️ [Image Classification using CNN](https://github.com/priyanshu159/REPO-NAME)
-Image classification using Convolutional Neural Networks.
-
-### 📊 [Data Analysis Projects](https://github.com/priyanshu159/REPO-NAME)
-Exploratory Data Analysis and visualization using Python.
 
 ---
 

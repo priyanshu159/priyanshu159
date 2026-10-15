@@ -2,159 +2,136 @@
 
 # Hi there! 👋 I'm Priyanshu
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Deep+Learning+Learner;Generative+AI+Explorer;Building+AI+Projects+Every+Day;Welcome+to+My+GitHub+Profile!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Deep+Learning+Learner;Generative+AI+Explorer;Building+AI+Projects+Every+Day;Welcome+to+My+GitHub+Profile!" alt="Typing animation" />
 
 ### 🎓 Computer Science Student | Aspiring AI & Machine Learning Engineer
 
-<img src="https://komarev.com/ghpvc/?username=priyanshu159&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=priyanshu159&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 Computer Science Student
-
-💻 Passionate about Artificial Intelligence, Machine Learning and Data Science.
-
-🌱 Currently learning
-
-* Generative AI
-* Machine Learning
-* Deep Learning
-* Natural Language Processing (NLP)
-* TensorFlow
-* PyTorch
-
-🎯 Goal
-
-Become an AI/ML Engineer and build impactful AI applications.
+- 🎓 Computer Science Student
+- 💻 Passionate about Artificial Intelligence, Machine Learning and Data Science
+- 🎯 **Goal:** Become an AI/ML Engineer and build impactful AI applications
 
 ---
 
-# 🛠️ Tech Stack
+## 📖 Currently Learning
+
+- 🤖 Generative AI
+- 🧠 Machine Learning & Deep Learning
+- 🔄 Recurrent Neural Networks (RNN)
+- 🖼️ Convolutional Neural Networks (CNN)
+- 💬 Natural Language Processing (NLP)
+- 👁️ Computer Vision
+- ✨ Large Language Models (LLMs)
+- 🔥 TensorFlow & PyTorch
+
+---
+
+## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
 
-* Python
-* C
-* SQL
+- Python
+- C
+- SQL
 
 ### 📚 Libraries & Frameworks
 
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-Learn
-* TensorFlow
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- TensorFlow
 
 ### ⚙️ Tools
-* Jupyter
-* VS Code 
-* SQL
-* GitHub
-* Streamlit
+
+- Jupyter Notebook
+- VS Code
+- Git & GitHub
+- Streamlit
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
-### 💼 InterviewGPT
-
+### 💼 [InterviewGPT](https://github.com/priyanshu159/REPO-NAME)
 AI-powered interview preparation assistant that generates interview questions and helps users practice technical and HR interviews.
 
-### 💰 Salary Prediction
-
+### 💰 [Salary Prediction](https://github.com/priyanshu159/REPO-NAME)
 Machine Learning model that predicts employee salaries using features such as education, experience, and job role.
 
-### 🏠 House Price Prediction
-
+### 🏠 [House Price Prediction](https://github.com/priyanshu159/REPO-NAME)
 Regression model that predicts house prices based on various property features.
 
-### 📈 Customer Churn Prediction
-
+### 📈 [Customer Churn Prediction](https://github.com/priyanshu159/REPO-NAME)
 Predicts whether a customer is likely to leave a company.
 
-### 📰 AG News Classification using RNN
-
+### 📰 [AG News Classification using RNN](https://github.com/priyanshu159/REPO-NAME)
 Text classification using Recurrent Neural Networks (RNN).
 
-### 🖼️ Image Classification using CNN
-
+### 🖼️ [Image Classification using CNN](https://github.com/priyanshu159/REPO-NAME)
 Image classification using Convolutional Neural Networks.
 
-### 📊 Data Analysis Projects
-
+### 📊 [Data Analysis Projects](https://github.com/priyanshu159/REPO-NAME)
 Exploratory Data Analysis and visualization using Python.
 
 ---
 
-# 📖 Currently Learning
-
-* 🤖 Generative AI
-* 🧠 Deep Learning
-* 🔄 Recurrent Neural Networks
-* 🖼️ Convolutional Neural Networks
-* 💬 Natural Language Processing
-* 👁️ Computer Vision
-* ✨ Large Language Models (LLMs)
-
----
-
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshu159&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu159&layout=compact&theme=tokyonight"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=priyanshu159&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu159&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=priyanshu159&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=priyanshu159&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=priyanshu159&theme=tokyonight&row=1&column=7"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshu159&theme=tokyonight&row=1&column=7" alt="GitHub trophies" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu159&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/priyanshu159/priyanshu159/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyanshu159/priyanshu159/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyanshu159/priyanshu159/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/priyanshu159/priyanshu159/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-💼 LinkedIn
-
-https://www.linkedin.com/in/priyanshu-kumar-75409925a/
-
-📧 Email
-
-[priyanshu1594kumar@gmail.com](mailto:priyanshu1594kumar@gmail.com)
+- 💼 **LinkedIn:** [Priyanshu Kumar](https://www.linkedin.com/in/priyanshu-kumar-75409925a/)
+- 📧 **Email:** [priyanshu1594kumar@gmail.com](mailto:priyanshu1594kumar@gmail.com)
 
 ---
 

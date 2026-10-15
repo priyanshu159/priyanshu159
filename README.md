@@ -63,7 +63,7 @@
 ### 💼 [InterviewGPT](https://github.com/priyanshu159/InterviewGPT)
 AI-powered interview preparation assistant that generates interview questions and helps users practice technical and HR interviews.
 
-### Smart_Parking_Space_Allocation_Using_Reinforcement_Learning(https://github.com/priyanshu159/Smart_Parking_Space_Allocation_Using_Reinforcement_Learning)
+### [Smart_Parking_Space_Allocation_Using_Reinforcement_Learning] (https://github.com/priyanshu159/Smart_Parking_Space_Allocation_Using_Reinforcement_Learning)
 A simulation-based parking management system that uses Q-Learning to assign parking spaces optimally, minimising search distance and congestion.
 
 ### 💰 [AI-Powered-Salary-Prediction-Job-Market-Analytics](https://github.com/priyanshu159/AI-Powered-Salary-Prediction-Job-Market-Analytics)

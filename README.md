@@ -66,6 +66,9 @@ AI-powered interview preparation assistant that generates interview questions an
 ### [Smart_Parking_Space_Allocation_Using_Reinforcement_Learning](https://github.com/priyanshu159/Smart_Parking_Space_Allocation_Using_Reinforcement_Learning)
 A simulation-based parking management system that uses Q-Learning to assign parking spaces optimally, minimising search distance and congestion.
 
+### [Hospital Management System](https://github.com/priyanshu159/Hospital-Management-System)
+This is a Java Swing desktop project for a basic Hospital Management System.
+
 ### 💰 [AI-Powered-Salary-Prediction-Job-Market-Analytics](https://github.com/priyanshu159/AI-Powered-Salary-Prediction-Job-Market-Analytics)
 Machine Learning model that predicts employee salaries using features such as education, experience, and job role.
 
